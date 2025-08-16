@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Steal a Country - Country List</title>
+  <link rel="stylesheet" href="index.css" />
+</head>
+<body>
+  <aside class="sidebar" id="sidebar">
+    <div class="search">
+      <div style="display:flex;flex-direction:column;gap:6px;width:100%">
+        <h3>Search</h3>
+        <input id="search" placeholder="e.g. British Empire" />
+      </div>
+    </div>
+
+    <div class="sorting">
+      <h3>Demand</h3>
+      <div class="button-wrap" id="sorting-demand"></div>
+    </div>
+
+    <div class="sorting">
+      <h3>Rarity</h3>
+      <div class="button-wrap" id="sorting-rarity"></div>
+    </div>
+
+    <div class="sorting">
+      <h3>Multiplier</h3>
+      <div class="button-wrap" id="sorting-multiplier"></div>
+    </div>
+
+    <div class="sorting">
+      <h3>Mutation</h3>
+      <div class="button-wrap" id="sorting-mutation"></div>
+    </div>
+
+    <div class="sorting">
+      <h3>Other</h3>
+      <div class="button-wrap" id="sorting-alphabet"></div>
+    </div>
+
+    <div class="info-lists">
+      <div class="info-block">
+        <h3>Multipliers</h3>
+        <div class="info-item">Normal: x1</div>
+        <div class="info-item">Gold: x1.25</div>
+        <div class="info-item">Diamond: x1.5</div>
+        <div class="info-item">Emerald: x2</div>
+        <div class="info-item">Rainbow: x3</div>
+      </div>
+      <div class="info-block">
+        <h3>Mutations</h3>
+        <div class="info-item">Toxic: x4</div>
+        <div class="info-item">Magma: x4</div>
+        <div class="info-item">Cosmic: x6</div>
+      </div>
+    </div>
+  </aside>
+
+  <main class="main">
+    <div class="header">
+      <div class="title">Steal a Country - Country List</div>
+      <div class="note"></div>
+    </div>
+
+    <div class="grid-wrap">
+      <div class="grid" id="grid"></div>
+    </div>
+
+    <div class="footer" id="footer-box">
+      <div></div>
+      <div></div>
+    </div>
+  </main>
+
+  <script src="index.js"></script>
+</body>
+</html>
