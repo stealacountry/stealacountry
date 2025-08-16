@@ -1,0 +1,3912 @@
+[
+    {
+        "name": "Romania",
+        "demand": "10/10",
+        "image": "./romania.png",
+        "rarity": "Common",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "1/s",
+        "cost": "Free"
+    },
+    {
+        "name": "Romania",
+        "demand": "10/10",
+        "image": "./romania.png",
+        "rarity": "Common",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "1.25/s",
+        "cost": "Free"
+    },
+    {
+        "name": "Romania",
+        "demand": "10/10",
+        "image": "./romania.png",
+        "rarity": "Common",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "1.5/s",
+        "cost": "Free"
+    },
+    {
+        "name": "Romania",
+        "demand": "10/10",
+        "image": "./romania.png",
+        "rarity": "Common",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "2/s",
+        "cost": "Free"
+    },
+    {
+        "name": "Romania",
+        "demand": "10/10",
+        "image": "./romania.png",
+        "rarity": "Common",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "3/s",
+        "cost": "Free"
+    },
+    {
+        "name": "Belgium",
+        "demand": "10/10",
+        "image": "./belgium.png",
+        "rarity": "Common",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "4/s",
+        "cost": "75"
+    },
+    {
+        "name": "Belgium",
+        "demand": "10/10",
+        "image": "./belgium.png",
+        "rarity": "Common",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "5/s",
+        "cost": "75"
+    },
+    {
+        "name": "Belgium",
+        "demand": "10/10",
+        "image": "./belgium.png",
+        "rarity": "Common",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "6/s",
+        "cost": "75"
+    },
+    {
+        "name": "Belgium",
+        "demand": "10/10",
+        "image": "./belgium.png",
+        "rarity": "Common",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "8/s",
+        "cost": "75"
+    },
+    {
+        "name": "Belgium",
+        "demand": "10/10",
+        "image": "./belgium.png",
+        "rarity": "Common",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "12/s",
+        "cost": "75"
+    },
+    {
+        "name": "Austria",
+        "demand": "10/10",
+        "image": "./austria.png",
+        "rarity": "Common",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "4/s",
+        "cost": "400"
+    },
+    {
+        "name": "Austria",
+        "demand": "10/10",
+        "image": "./austria.png",
+        "rarity": "Common",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "5/s",
+        "cost": "400"
+    },
+    {
+        "name": "Austria",
+        "demand": "10/10",
+        "image": "./austria.png",
+        "rarity": "Common",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "6/s",
+        "cost": "400"
+    },
+    {
+        "name": "Austria",
+        "demand": "10/10",
+        "image": "./austria.png",
+        "rarity": "Common",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "8/s",
+        "cost": "400"
+    },
+    {
+        "name": "Austria",
+        "demand": "10/10",
+        "image": "./austria.png",
+        "rarity": "Common",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "12/s",
+        "cost": "400"
+    },
+    {
+        "name": "Bulgaria",
+        "demand": "10/10",
+        "image": "./bulgaria.png",
+        "rarity": "Common",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "6/s",
+        "cost": "600"
+    },
+    {
+        "name": "Bulgaria",
+        "demand": "10/10",
+        "image": "./bulgaria.png",
+        "rarity": "Common",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "7.5/s",
+        "cost": "600"
+    },
+    {
+        "name": "Bulgaria",
+        "demand": "10/10",
+        "image": "./bulgaria.png",
+        "rarity": "Common",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "9/s",
+        "cost": "600"
+    },
+    {
+        "name": "Bulgaria",
+        "demand": "10/10",
+        "image": "./bulgaria.png",
+        "rarity": "Common",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "12/s",
+        "cost": "600"
+    },
+    {
+        "name": "Bulgaria",
+        "demand": "10/10",
+        "image": "./bulgaria.png",
+        "rarity": "Common",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "18/s",
+        "cost": "600"
+    },
+    {
+        "name": "Portugal",
+        "demand": "10/10",
+        "image": "./portugal.png",
+        "rarity": "Common",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "1/s",
+        "cost": "750"
+    },
+    {
+        "name": "Portugal",
+        "demand": "10/10",
+        "image": "./portugal.png",
+        "rarity": "Common",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "1.25/s",
+        "cost": "750"
+    },
+    {
+        "name": "Portugal",
+        "demand": "10/10",
+        "image": "./portugal.png",
+        "rarity": "Common",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "1.5/s",
+        "cost": "750"
+    },
+    {
+        "name": "Portugal",
+        "demand": "10/10",
+        "image": "./portugal.png",
+        "rarity": "Common",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "2/s",
+        "cost": "750"
+    },
+    {
+        "name": "Portugal",
+        "demand": "10/10",
+        "image": "./portugal.png",
+        "rarity": "Common",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "3/s",
+        "cost": "750"
+    },
+    {
+        "name": "Greece",
+        "demand": "10/10",
+        "image": "./greece.png",
+        "rarity": "Common",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "9/s",
+        "cost": "1k"
+    },
+    {
+        "name": "Greece",
+        "demand": "10/10",
+        "image": "./greece.png",
+        "rarity": "Common",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "11.25/s",
+        "cost": "1k"
+    },
+    {
+        "name": "Greece",
+        "demand": "10/10",
+        "image": "./greece.png",
+        "rarity": "Common",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "13.5/s",
+        "cost": "1k"
+    },
+    {
+        "name": "Greece",
+        "demand": "10/10",
+        "image": "./greece.png",
+        "rarity": "Common",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "18/s",
+        "cost": "1k"
+    },
+    {
+        "name": "Greece",
+        "demand": "10/10",
+        "image": "./greece.png",
+        "rarity": "Common",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "27/s",
+        "cost": "1k"
+    },
+    {
+        "name": "South Africa",
+        "demand": "10/10",
+        "image": "./south_africa.png",
+        "rarity": "Common",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "9/s",
+        "cost": "1k"
+    },
+    {
+        "name": "South Africa",
+        "demand": "10/10",
+        "image": "./south_africa.png",
+        "rarity": "Common",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "11.25/s",
+        "cost": "1k"
+    },
+    {
+        "name": "South Africa",
+        "demand": "10/10",
+        "image": "./south_africa.png",
+        "rarity": "Common",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "13.5/s",
+        "cost": "1k"
+    },
+    {
+        "name": "South Africa",
+        "demand": "10/10",
+        "image": "./south_africa.png",
+        "rarity": "Common",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "18/s",
+        "cost": "1k"
+    },
+    {
+        "name": "South Africa",
+        "demand": "10/10",
+        "image": "./south_africa.png",
+        "rarity": "Common",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "27/s",
+        "cost": "1k"
+    },
+    {
+        "name": "Algeria",
+        "demand": "10/10",
+        "image": "./algeria.png",
+        "rarity": "Common",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "9/s",
+        "cost": "1k"
+    },
+    {
+        "name": "Algeria",
+        "demand": "10/10",
+        "image": "./algeria.png",
+        "rarity": "Common",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "11.25/s",
+        "cost": "1k"
+    },
+    {
+        "name": "Algeria",
+        "demand": "10/10",
+        "image": "./algeria.png",
+        "rarity": "Common",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "13.5/s",
+        "cost": "1k"
+    },
+    {
+        "name": "Algeria",
+        "demand": "10/10",
+        "image": "./algeria.png",
+        "rarity": "Common",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "18/s",
+        "cost": "1k"
+    },
+    {
+        "name": "Algeria",
+        "demand": "10/10",
+        "image": "./algeria.png",
+        "rarity": "Common",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "27/s",
+        "cost": "1k"
+    },
+    {
+        "name": "New Zealand",
+        "demand": "10/10",
+        "image": "./new_zealand.png",
+        "rarity": "Common",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "9/s",
+        "cost": "1k"
+    },
+    {
+        "name": "New Zealand",
+        "demand": "10/10",
+        "image": "./new_zealand.png",
+        "rarity": "Common",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "11.25/s",
+        "cost": "1k"
+    },
+    {
+        "name": "New Zealand",
+        "demand": "10/10",
+        "image": "./new_zealand.png",
+        "rarity": "Common",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "13.5/s",
+        "cost": "1k"
+    },
+    {
+        "name": "New Zealand",
+        "demand": "10/10",
+        "image": "./new_zealand.png",
+        "rarity": "Common",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "18/s",
+        "cost": "1k"
+    },
+    {
+        "name": "New Zealand",
+        "demand": "10/10",
+        "image": "./new_zealand.png",
+        "rarity": "Common",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "27/s",
+        "cost": "1k"
+    },
+    {
+        "name": "Lithuania",
+        "demand": "10/10",
+        "image": "./lithuania.png",
+        "rarity": "Common",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "10/s",
+        "cost": "1k"
+    },
+    {
+        "name": "Lithuania",
+        "demand": "10/10",
+        "image": "./lithuania.png",
+        "rarity": "Common",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "12.5/s",
+        "cost": "1k"
+    },
+    {
+        "name": "Lithuania",
+        "demand": "10/10",
+        "image": "./lithuania.png",
+        "rarity": "Common",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "15/s",
+        "cost": "1k"
+    },
+    {
+        "name": "Lithuania",
+        "demand": "10/10",
+        "image": "./lithuania.png",
+        "rarity": "Common",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "20/s",
+        "cost": "1k"
+    },
+    {
+        "name": "Lithuania",
+        "demand": "10/10",
+        "image": "./lithuania.png",
+        "rarity": "Common",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "30/s",
+        "cost": "1k"
+    },
+    {
+        "name": "Egypt",
+        "demand": "10/10",
+        "image": "./egypt.png",
+        "rarity": "Common",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "10/s",
+        "cost": "1.2k"
+    },
+    {
+        "name": "Egypt",
+        "demand": "10/10",
+        "image": "./egypt.png",
+        "rarity": "Common",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "12.5/s",
+        "cost": "1.2k"
+    },
+    {
+        "name": "Egypt",
+        "demand": "10/10",
+        "image": "./egypt.png",
+        "rarity": "Common",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "15/s",
+        "cost": "1.2k"
+    },
+    {
+        "name": "Egypt",
+        "demand": "10/10",
+        "image": "./egypt.png",
+        "rarity": "Common",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "20/s",
+        "cost": "1.2k"
+    },
+    {
+        "name": "Egypt",
+        "demand": "10/10",
+        "image": "./egypt.png",
+        "rarity": "Common",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "30/s",
+        "cost": "1.2k"
+    },
+    {
+        "name": "Serbia",
+        "demand": "10/10",
+        "image": "./serbia.png",
+        "rarity": "Common",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "12/s",
+        "cost": "1.35k"
+    },
+    {
+        "name": "Serbia",
+        "demand": "10/10",
+        "image": "./serbia.png",
+        "rarity": "Common",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "15/s",
+        "cost": "1.35k"
+    },
+    {
+        "name": "Serbia",
+        "demand": "10/10",
+        "image": "./serbia.png",
+        "rarity": "Common",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "18/s",
+        "cost": "1.35k"
+    },
+    {
+        "name": "Serbia",
+        "demand": "10/10",
+        "image": "./serbia.png",
+        "rarity": "Common",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "24/s",
+        "cost": "1.35k"
+    },
+    {
+        "name": "Serbia",
+        "demand": "10/10",
+        "image": "./serbia.png",
+        "rarity": "Common",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "36/s",
+        "cost": "1.35k"
+    },
+    {
+        "name": "Vietnam",
+        "demand": "10/10",
+        "image": "./vietnam.png",
+        "rarity": "Common",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "13/s",
+        "cost": "1.5k"
+    },
+    {
+        "name": "Vietnam",
+        "demand": "10/10",
+        "image": "./vietnam.png",
+        "rarity": "Common",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "16.25/s",
+        "cost": "1.5k"
+    },
+    {
+        "name": "Vietnam",
+        "demand": "10/10",
+        "image": "./vietnam.png",
+        "rarity": "Common",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "19.5/s",
+        "cost": "1.5k"
+    },
+    {
+        "name": "Vietnam",
+        "demand": "10/10",
+        "image": "./vietnam.png",
+        "rarity": "Common",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "26/s",
+        "cost": "1.5k"
+    },
+    {
+        "name": "Vietnam",
+        "demand": "10/10",
+        "image": "./vietnam.png",
+        "rarity": "Common",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "39/s",
+        "cost": "1.5k"
+    },
+    {
+        "name": "Malaysia",
+        "demand": "10/10",
+        "image": "./malaysia.png",
+        "rarity": "Common",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "13/s",
+        "cost": "1.5k"
+    },
+    {
+        "name": "Malaysia",
+        "demand": "10/10",
+        "image": "./malaysia.png",
+        "rarity": "Common",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "16.25/s",
+        "cost": "1.5k"
+    },
+    {
+        "name": "Malaysia",
+        "demand": "10/10",
+        "image": "./malaysia.png",
+        "rarity": "Common",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "19.5/s",
+        "cost": "1.5k"
+    },
+    {
+        "name": "Malaysia",
+        "demand": "10/10",
+        "image": "./malaysia.png",
+        "rarity": "Common",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "26/s",
+        "cost": "1.5k"
+    },
+    {
+        "name": "Malaysia",
+        "demand": "10/10",
+        "image": "./malaysia.png",
+        "rarity": "Common",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "39/s",
+        "cost": "1.5k"
+    },
+    {
+        "name": "Thailand",
+        "demand": "10/10",
+        "image": "./thailand.png",
+        "rarity": "Rare",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "20/s",
+        "cost": "2.5k"
+    },
+    {
+        "name": "Thailand",
+        "demand": "10/10",
+        "image": "./thailand.png",
+        "rarity": "Rare",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "25/s",
+        "cost": "2.5k"
+    },
+    {
+        "name": "Thailand",
+        "demand": "10/10",
+        "image": "./thailand.png",
+        "rarity": "Rare",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "30/s",
+        "cost": "2.5k"
+    },
+    {
+        "name": "Thailand",
+        "demand": "10/10",
+        "image": "./thailand.png",
+        "rarity": "Rare",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "40/s",
+        "cost": "2.5k"
+    },
+    {
+        "name": "Thailand",
+        "demand": "10/10",
+        "image": "./thailand.png",
+        "rarity": "Rare",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "60/s",
+        "cost": "2.5k"
+    },
+    {
+        "name": "Switzerland",
+        "demand": "10/10",
+        "image": "./switzerland.png",
+        "rarity": "Rare",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "35/s",
+        "cost": "4k"
+    },
+    {
+        "name": "Switzerland",
+        "demand": "10/10",
+        "image": "./switzerland.png",
+        "rarity": "Rare",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "43.75/s",
+        "cost": "4k"
+    },
+    {
+        "name": "Switzerland",
+        "demand": "10/10",
+        "image": "./switzerland.png",
+        "rarity": "Rare",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "52.5/s",
+        "cost": "4k"
+    },
+    {
+        "name": "Switzerland",
+        "demand": "10/10",
+        "image": "./switzerland.png",
+        "rarity": "Rare",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "70/s",
+        "cost": "4k"
+    },
+    {
+        "name": "Switzerland",
+        "demand": "10/10",
+        "image": "./switzerland.png",
+        "rarity": "Rare",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "105/s",
+        "cost": "4k"
+    },
+    {
+        "name": "Netherlands",
+        "demand": "10/10",
+        "image": "./netherlands.png",
+        "rarity": "Rare",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "40/s",
+        "cost": "5k"
+    },
+    {
+        "name": "Netherlands",
+        "demand": "10/10",
+        "image": "./netherlands.png",
+        "rarity": "Rare",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "50/s",
+        "cost": "5k"
+    },
+    {
+        "name": "Netherlands",
+        "demand": "10/10",
+        "image": "./netherlands.png",
+        "rarity": "Rare",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "60/s",
+        "cost": "5k"
+    },
+    {
+        "name": "Netherlands",
+        "demand": "10/10",
+        "image": "./netherlands.png",
+        "rarity": "Rare",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "80/s",
+        "cost": "5k"
+    },
+    {
+        "name": "Netherlands",
+        "demand": "10/10",
+        "image": "./netherlands.png",
+        "rarity": "Rare",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "120/s",
+        "cost": "5k"
+    },
+    {
+        "name": "France",
+        "demand": "10/10",
+        "image": "./france.png",
+        "rarity": "Rare",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "45/s",
+        "cost": "5k"
+    },
+    {
+        "name": "France",
+        "demand": "10/10",
+        "image": "./france.png",
+        "rarity": "Rare",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "56.25/s",
+        "cost": "5k"
+    },
+    {
+        "name": "France",
+        "demand": "10/10",
+        "image": "./france.png",
+        "rarity": "Rare",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "67.5/s",
+        "cost": "5k"
+    },
+    {
+        "name": "France",
+        "demand": "10/10",
+        "image": "./france.png",
+        "rarity": "Rare",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "90/s",
+        "cost": "5k"
+    },
+    {
+        "name": "France",
+        "demand": "10/10",
+        "image": "./france.png",
+        "rarity": "Rare",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "135/s",
+        "cost": "5k"
+    },
+    {
+        "name": "Finland",
+        "demand": "10/10",
+        "image": "./finland.png",
+        "rarity": "Rare",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "50/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Finland",
+        "demand": "10/10",
+        "image": "./finland.png",
+        "rarity": "Rare",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "62.5/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Finland",
+        "demand": "10/10",
+        "image": "./finland.png",
+        "rarity": "Rare",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "75/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Finland",
+        "demand": "10/10",
+        "image": "./finland.png",
+        "rarity": "Rare",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "100/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Finland",
+        "demand": "10/10",
+        "image": "./finland.png",
+        "rarity": "Rare",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "150/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Germany",
+        "demand": "10/10",
+        "image": "./germany.png",
+        "rarity": "Rare",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "50/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Germany",
+        "demand": "10/10",
+        "image": "./germany.png",
+        "rarity": "Rare",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "62.5/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Germany",
+        "demand": "10/10",
+        "image": "./germany.png",
+        "rarity": "Rare",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "75/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Germany",
+        "demand": "10/10",
+        "image": "./germany.png",
+        "rarity": "Rare",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "100/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Germany",
+        "demand": "10/10",
+        "image": "./germany.png",
+        "rarity": "Rare",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "150/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Norway",
+        "demand": "10/10",
+        "image": "./norway.png",
+        "rarity": "Rare",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "50/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Norway",
+        "demand": "10/10",
+        "image": "./norway.png",
+        "rarity": "Rare",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "62.5/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Norway",
+        "demand": "10/10",
+        "image": "./norway.png",
+        "rarity": "Rare",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "75/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Norway",
+        "demand": "10/10",
+        "image": "./norway.png",
+        "rarity": "Rare",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "100/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Norway",
+        "demand": "10/10",
+        "image": "./norway.png",
+        "rarity": "Rare",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "150/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Sweden",
+        "demand": "10/10",
+        "image": "./sweden.png",
+        "rarity": "Rare",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "50/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Sweden",
+        "demand": "10/10",
+        "image": "./sweden.png",
+        "rarity": "Rare",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "62.5/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Sweden",
+        "demand": "10/10",
+        "image": "./sweden.png",
+        "rarity": "Rare",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "75/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Sweden",
+        "demand": "10/10",
+        "image": "./sweden.png",
+        "rarity": "Rare",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "100/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Sweden",
+        "demand": "10/10",
+        "image": "./sweden.png",
+        "rarity": "Rare",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "150/s",
+        "cost": "5.5k"
+    },
+    {
+        "name": "Saudi Arabia",
+        "demand": "10/10",
+        "image": "./saudi_arabia.png",
+        "rarity": "Rare",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "55/s",
+        "cost": "7.5k"
+    },
+    {
+        "name": "Saudi Arabia",
+        "demand": "10/10",
+        "image": "./saudi_arabia.png",
+        "rarity": "Rare",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "68.75/s",
+        "cost": "7.5k"
+    },
+    {
+        "name": "Saudi Arabia",
+        "demand": "10/10",
+        "image": "./saudi_arabia.png",
+        "rarity": "Rare",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "82.5/s",
+        "cost": "7.5k"
+    },
+    {
+        "name": "Saudi Arabia",
+        "demand": "10/10",
+        "image": "./saudi_arabia.png",
+        "rarity": "Rare",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "110/s",
+        "cost": "7.5k"
+    },
+    {
+        "name": "Saudi Arabia",
+        "demand": "10/10",
+        "image": "./saudi_arabia.png",
+        "rarity": "Rare",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "165/s",
+        "cost": "7.5k"
+    },
+    {
+        "name": "Spain",
+        "demand": "10/10",
+        "image": "./spain.png",
+        "rarity": "Rare",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "55/s",
+        "cost": "7.5k"
+    },
+    {
+        "name": "Spain",
+        "demand": "10/10",
+        "image": "./spain.png",
+        "rarity": "Rare",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "68.75/s",
+        "cost": "7.5k"
+    },
+    {
+        "name": "Spain",
+        "demand": "10/10",
+        "image": "./spain.png",
+        "rarity": "Rare",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "82.5/s",
+        "cost": "7.5k"
+    },
+    {
+        "name": "Spain",
+        "demand": "10/10",
+        "image": "./spain.png",
+        "rarity": "Rare",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "110/s",
+        "cost": "7.5k"
+    },
+    {
+        "name": "Spain",
+        "demand": "10/10",
+        "image": "./spain.png",
+        "rarity": "Rare",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "165/s",
+        "cost": "7.5k"
+    },
+    {
+        "name": "Chile",
+        "demand": "10/10",
+        "image": "./chile.png",
+        "rarity": "Rare",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "60/s",
+        "cost": "8k"
+    },
+    {
+        "name": "Chile",
+        "demand": "10/10",
+        "image": "./chile.png",
+        "rarity": "Rare",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "75/s",
+        "cost": "8k"
+    },
+    {
+        "name": "Chile",
+        "demand": "10/10",
+        "image": "./chile.png",
+        "rarity": "Rare",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "90/s",
+        "cost": "8k"
+    },
+    {
+        "name": "Chile",
+        "demand": "10/10",
+        "image": "./chile.png",
+        "rarity": "Rare",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "120/s",
+        "cost": "8k"
+    },
+    {
+        "name": "Chile",
+        "demand": "10/10",
+        "image": "./chile.png",
+        "rarity": "Rare",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "180/s",
+        "cost": "8k"
+    },
+    {
+        "name": "South Korea",
+        "demand": "10/10",
+        "image": "./south_korea.png",
+        "rarity": "Rare",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "60/s",
+        "cost": "8k"
+    },
+    {
+        "name": "South Korea",
+        "demand": "10/10",
+        "image": "./south_korea.png",
+        "rarity": "Rare",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "75/s",
+        "cost": "8k"
+    },
+    {
+        "name": "South Korea",
+        "demand": "10/10",
+        "image": "./south_korea.png",
+        "rarity": "Rare",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "90/s",
+        "cost": "8k"
+    },
+    {
+        "name": "South Korea",
+        "demand": "10/10",
+        "image": "./south_korea.png",
+        "rarity": "Rare",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "120/s",
+        "cost": "8k"
+    },
+    {
+        "name": "South Korea",
+        "demand": "10/10",
+        "image": "./south_korea.png",
+        "rarity": "Rare",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "180/s",
+        "cost": "8k"
+    },
+    {
+        "name": "Philippines",
+        "demand": "10/10",
+        "image": "./philippines.png",
+        "rarity": "Rare",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "65/s",
+        "cost": "9k"
+    },
+    {
+        "name": "Philippines",
+        "demand": "10/10",
+        "image": "./philippines.png",
+        "rarity": "Rare",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "81.25/s",
+        "cost": "9k"
+    },
+    {
+        "name": "Philippines",
+        "demand": "10/10",
+        "image": "./philippines.png",
+        "rarity": "Rare",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "97.5/s",
+        "cost": "9k"
+    },
+    {
+        "name": "Philippines",
+        "demand": "10/10",
+        "image": "./philippines.png",
+        "rarity": "Rare",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "130/s",
+        "cost": "9k"
+    },
+    {
+        "name": "Philippines",
+        "demand": "10/10",
+        "image": "./philippines.png",
+        "rarity": "Rare",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "195/s",
+        "cost": "9k"
+    },
+    {
+        "name": "India",
+        "demand": "10/10",
+        "image": "./india.png",
+        "rarity": "Rare",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "65/s",
+        "cost": "9k"
+    },
+    {
+        "name": "India",
+        "demand": "10/10",
+        "image": "./india.png",
+        "rarity": "Rare",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "81.25/s",
+        "cost": "9k"
+    },
+    {
+        "name": "India",
+        "demand": "10/10",
+        "image": "./india.png",
+        "rarity": "Rare",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "97.5/s",
+        "cost": "9k"
+    },
+    {
+        "name": "India",
+        "demand": "10/10",
+        "image": "./india.png",
+        "rarity": "Rare",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "130/s",
+        "cost": "9k"
+    },
+    {
+        "name": "India",
+        "demand": "10/10",
+        "image": "./india.png",
+        "rarity": "Rare",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "195/s",
+        "cost": "9k"
+    },
+    {
+        "name": "Brazil",
+        "demand": "10/10",
+        "image": "./brazil.png",
+        "rarity": "Rare",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "65/s",
+        "cost": "9k"
+    },
+    {
+        "name": "Brazil",
+        "demand": "10/10",
+        "image": "./brazil.png",
+        "rarity": "Rare",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "81.25/s",
+        "cost": "9k"
+    },
+    {
+        "name": "Brazil",
+        "demand": "10/10",
+        "image": "./brazil.png",
+        "rarity": "Rare",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "97.5/s",
+        "cost": "9k"
+    },
+    {
+        "name": "Brazil",
+        "demand": "10/10",
+        "image": "./brazil.png",
+        "rarity": "Rare",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "130/s",
+        "cost": "9k"
+    },
+    {
+        "name": "Brazil",
+        "demand": "10/10",
+        "image": "./brazil.png",
+        "rarity": "Rare",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "195/s",
+        "cost": "9k"
+    },
+    {
+        "name": "Argentina",
+        "demand": "10/10",
+        "image": "./argentina.png",
+        "rarity": "Rare",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "70/s",
+        "cost": "9.5k"
+    },
+    {
+        "name": "Argentina",
+        "demand": "10/10",
+        "image": "./argentina.png",
+        "rarity": "Rare",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "87.5/s",
+        "cost": "9.5k"
+    },
+    {
+        "name": "Argentina",
+        "demand": "10/10",
+        "image": "./argentina.png",
+        "rarity": "Rare",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "105/s",
+        "cost": "9.5k"
+    },
+    {
+        "name": "Argentina",
+        "demand": "10/10",
+        "image": "./argentina.png",
+        "rarity": "Rare",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "140/s",
+        "cost": "9.5k"
+    },
+    {
+        "name": "Argentina",
+        "demand": "10/10",
+        "image": "./argentina.png",
+        "rarity": "Rare",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "210/s",
+        "cost": "9.5k"
+    },
+    {
+        "name": "Austrlia",
+        "demand": "10/10",
+        "image": "./australia.png",
+        "rarity": "Rare",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "70/s",
+        "cost": "9.5k"
+    },
+    {
+        "name": "Austrlia",
+        "demand": "10/10",
+        "image": "./australia.png",
+        "rarity": "Rare",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "87.5/s",
+        "cost": "9.5k"
+    },
+    {
+        "name": "Austrlia",
+        "demand": "10/10",
+        "image": "./australia.png",
+        "rarity": "Rare",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "105/s",
+        "cost": "9.5k"
+    },
+    {
+        "name": "Austrlia",
+        "demand": "10/10",
+        "image": "./australia.png",
+        "rarity": "Rare",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "140/s",
+        "cost": "9.5k"
+    },
+    {
+        "name": "Austrlia",
+        "demand": "10/10",
+        "image": "./australia.png",
+        "rarity": "Rare",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "210/s",
+        "cost": "9.5k"
+    },
+    {
+        "name": "United Kingdom",
+        "demand": "10/10",
+        "image": "./united_kingdom.png",
+        "rarity": "Rare",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "75/s",
+        "cost": "10k"
+    },
+    {
+        "name": "United Kingdom",
+        "demand": "10/10",
+        "image": "./united_kingdom.png",
+        "rarity": "Rare",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "93.75/s",
+        "cost": "10k"
+    },
+    {
+        "name": "United Kingdom",
+        "demand": "10/10",
+        "image": "./united_kingdom.png",
+        "rarity": "Rare",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "112.5/s",
+        "cost": "10k"
+    },
+    {
+        "name": "United Kingdom",
+        "demand": "10/10",
+        "image": "./united_kingdom.png",
+        "rarity": "Rare",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "150/s",
+        "cost": "10k"
+    },
+    {
+        "name": "United Kingdom",
+        "demand": "10/10",
+        "image": "./united_kingdom.png",
+        "rarity": "Rare",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "225/s",
+        "cost": "10k"
+    },
+    {
+        "name": "Indonesia",
+        "demand": "10/10",
+        "image": "./indonesia.png",
+        "rarity": "Epic",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "100/s",
+        "cost": "15k"
+    },
+    {
+        "name": "Indonesia",
+        "demand": "10/10",
+        "image": "./indonesia.png",
+        "rarity": "Epic",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "125/s",
+        "cost": "15k"
+    },
+    {
+        "name": "Indonesia",
+        "demand": "10/10",
+        "image": "./indonesia.png",
+        "rarity": "Epic",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "150/s",
+        "cost": "15k"
+    },
+    {
+        "name": "Indonesia",
+        "demand": "10/10",
+        "image": "./indonesia.png",
+        "rarity": "Epic",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "200/s",
+        "cost": "15k"
+    },
+    {
+        "name": "Indonesia",
+        "demand": "10/10",
+        "image": "./indonesia.png",
+        "rarity": "Epic",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "300/s",
+        "cost": "15k"
+    },
+    {
+        "name": "Italy",
+        "demand": "10/10",
+        "image": "./italy.png",
+        "rarity": "Epic",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "100/s",
+        "cost": "15k"
+    },
+    {
+        "name": "Italy",
+        "demand": "10/10",
+        "image": "./italy.png",
+        "rarity": "Epic",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "125/s",
+        "cost": "15k"
+    },
+    {
+        "name": "Italy",
+        "demand": "10/10",
+        "image": "./italy.png",
+        "rarity": "Epic",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "150/s",
+        "cost": "15k"
+    },
+    {
+        "name": "Italy",
+        "demand": "10/10",
+        "image": "./italy.png",
+        "rarity": "Epic",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "200/s",
+        "cost": "15k"
+    },
+    {
+        "name": "Italy",
+        "demand": "10/10",
+        "image": "./italy.png",
+        "rarity": "Epic",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "300/s",
+        "cost": "15k"
+    },
+    {
+        "name": "Poland",
+        "demand": "10/10",
+        "image": "./poland.png",
+        "rarity": "Epic",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "125/s",
+        "cost": "20k"
+    },
+    {
+        "name": "Poland",
+        "demand": "10/10",
+        "image": "./poland.png",
+        "rarity": "Epic",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "156.25/s",
+        "cost": "20k"
+    },
+    {
+        "name": "Poland",
+        "demand": "10/10",
+        "image": "./poland.png",
+        "rarity": "Epic",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "187.5/s",
+        "cost": "20k"
+    },
+    {
+        "name": "Poland",
+        "demand": "10/10",
+        "image": "./poland.png",
+        "rarity": "Epic",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "250/s",
+        "cost": "20k"
+    },
+    {
+        "name": "Poland",
+        "demand": "10/10",
+        "image": "./poland.png",
+        "rarity": "Epic",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "375/s",
+        "cost": "20k"
+    },
+    {
+        "name": "Japan",
+        "demand": "10/10",
+        "image": "./japan.png",
+        "rarity": "Epic",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "125/s",
+        "cost": "20k"
+    },
+    {
+        "name": "Japan",
+        "demand": "10/10",
+        "image": "./japan.png",
+        "rarity": "Epic",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "156.25/s",
+        "cost": "20k"
+    },
+    {
+        "name": "Japan",
+        "demand": "10/10",
+        "image": "./japan.png",
+        "rarity": "Epic",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "187.5/s",
+        "cost": "20k"
+    },
+    {
+        "name": "Japan",
+        "demand": "10/10",
+        "image": "./japan.png",
+        "rarity": "Epic",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "250/s",
+        "cost": "20k"
+    },
+    {
+        "name": "Japan",
+        "demand": "10/10",
+        "image": "./japan.png",
+        "rarity": "Epic",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "375/s",
+        "cost": "20k"
+    },
+    {
+        "name": "Pakistan",
+        "demand": "10/10",
+        "image": "./pakistan.png",
+        "rarity": "Epic",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "130/s",
+        "cost": "22k"
+    },
+    {
+        "name": "Pakistan",
+        "demand": "10/10",
+        "image": "./pakistan.png",
+        "rarity": "Epic",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "162.5/s",
+        "cost": "22k"
+    },
+    {
+        "name": "Pakistan",
+        "demand": "10/10",
+        "image": "./pakistan.png",
+        "rarity": "Epic",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "195/s",
+        "cost": "22k"
+    },
+    {
+        "name": "Pakistan",
+        "demand": "10/10",
+        "image": "./pakistan.png",
+        "rarity": "Epic",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "260/s",
+        "cost": "22k"
+    },
+    {
+        "name": "Pakistan",
+        "demand": "10/10",
+        "image": "./pakistan.png",
+        "rarity": "Epic",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "390/s",
+        "cost": "22k"
+    },
+    {
+        "name": "Ireland",
+        "demand": "10/10",
+        "image": "./ireland.png",
+        "rarity": "Epic",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "160/s",
+        "cost": "27.5k"
+    },
+    {
+        "name": "Ireland",
+        "demand": "10/10",
+        "image": "./ireland.png",
+        "rarity": "Epic",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "200/s",
+        "cost": "27.5k"
+    },
+    {
+        "name": "Ireland",
+        "demand": "10/10",
+        "image": "./ireland.png",
+        "rarity": "Epic",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "240/s",
+        "cost": "27.5k"
+    },
+    {
+        "name": "Ireland",
+        "demand": "10/10",
+        "image": "./ireland.png",
+        "rarity": "Epic",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "320/s",
+        "cost": "27.5k"
+    },
+    {
+        "name": "Ireland",
+        "demand": "10/10",
+        "image": "./ireland.png",
+        "rarity": "Epic",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "480/s",
+        "cost": "27.5k"
+    },
+    {
+        "name": "Türkiye",
+        "demand": "10/10",
+        "image": "./turkey.png",
+        "rarity": "Epic",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "175/s",
+        "cost": "30k"
+    },
+    {
+        "name": "Türkiye",
+        "demand": "10/10",
+        "image": "./turkey.png",
+        "rarity": "Epic",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "218.75/s",
+        "cost": "30k"
+    },
+    {
+        "name": "Türkiye",
+        "demand": "10/10",
+        "image": "./turkey.png",
+        "rarity": "Epic",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "262.5/s",
+        "cost": "30k"
+    },
+    {
+        "name": "Türkiye",
+        "demand": "10/10",
+        "image": "./turkey.png",
+        "rarity": "Epic",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "350/s",
+        "cost": "30k"
+    },
+    {
+        "name": "Türkiye",
+        "demand": "10/10",
+        "image": "./turkey.png",
+        "rarity": "Epic",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "525/s",
+        "cost": "30k"
+    },
+    {
+        "name": "Somalia",
+        "demand": "10/10",
+        "image": "./somalia.png",
+        "rarity": "Epic",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "180/s",
+        "cost": "30.5k"
+    },
+    {
+        "name": "Somalia",
+        "demand": "10/10",
+        "image": "./somalia.png",
+        "rarity": "Epic",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "225/s",
+        "cost": "30.5k"
+    },
+    {
+        "name": "Somalia",
+        "demand": "10/10",
+        "image": "./somalia.png",
+        "rarity": "Epic",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "270/s",
+        "cost": "30.5k"
+    },
+    {
+        "name": "Somalia",
+        "demand": "10/10",
+        "image": "./somalia.png",
+        "rarity": "Epic",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "360/s",
+        "cost": "30.5k"
+    },
+    {
+        "name": "Somalia",
+        "demand": "10/10",
+        "image": "./somalia.png",
+        "rarity": "Epic",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "540/s",
+        "cost": "30.5k"
+    },
+    {
+        "name": "Denmark",
+        "demand": "10/10",
+        "image": "./denmark.png",
+        "rarity": "Epic",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "200/s",
+        "cost": "35k"
+    },
+    {
+        "name": "Denmark",
+        "demand": "10/10",
+        "image": "./denmark.png",
+        "rarity": "Epic",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "250/s",
+        "cost": "35k"
+    },
+    {
+        "name": "Denmark",
+        "demand": "10/10",
+        "image": "./denmark.png",
+        "rarity": "Epic",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "300/s",
+        "cost": "35k"
+    },
+    {
+        "name": "Denmark",
+        "demand": "10/10",
+        "image": "./denmark.png",
+        "rarity": "Epic",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "400/s",
+        "cost": "35k"
+    },
+    {
+        "name": "Denmark",
+        "demand": "10/10",
+        "image": "./denmark.png",
+        "rarity": "Epic",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "600/s",
+        "cost": "35k"
+    },
+    {
+        "name": "Mexico",
+        "demand": "10/10",
+        "image": "./mexico.png",
+        "rarity": "Epic",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "250/s",
+        "cost": "35k"
+    },
+    {
+        "name": "Mexico",
+        "demand": "10/10",
+        "image": "./mexico.png",
+        "rarity": "Epic",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "312.5/s",
+        "cost": "35k"
+    },
+    {
+        "name": "Mexico",
+        "demand": "10/10",
+        "image": "./mexico.png",
+        "rarity": "Epic",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "375/s",
+        "cost": "35k"
+    },
+    {
+        "name": "Mexico",
+        "demand": "10/10",
+        "image": "./mexico.png",
+        "rarity": "Epic",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "500/s",
+        "cost": "35k"
+    },
+    {
+        "name": "Mexico",
+        "demand": "10/10",
+        "image": "./mexico.png",
+        "rarity": "Epic",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "750/s",
+        "cost": "35k"
+    },
+    {
+        "name": "Colombia",
+        "demand": "10/10",
+        "image": "./colombia.png",
+        "rarity": "Epic",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "250/s",
+        "cost": "35k"
+    },
+    {
+        "name": "Colombia",
+        "demand": "10/10",
+        "image": "./colombia.png",
+        "rarity": "Epic",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "312.5/s",
+        "cost": "35k"
+    },
+    {
+        "name": "Colombia",
+        "demand": "10/10",
+        "image": "./colombia.png",
+        "rarity": "Epic",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "375/s",
+        "cost": "35k"
+    },
+    {
+        "name": "Colombia",
+        "demand": "10/10",
+        "image": "./colombia.png",
+        "rarity": "Epic",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "500/s",
+        "cost": "35k"
+    },
+    {
+        "name": "Colombia",
+        "demand": "10/10",
+        "image": "./colombia.png",
+        "rarity": "Epic",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "750/s",
+        "cost": "35k"
+    },
+    {
+        "name": "Ukraine",
+        "demand": "10/10",
+        "image": "./ukraine.png",
+        "rarity": "Legendary",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "300/s",
+        "cost": "50k"
+    },
+    {
+        "name": "Ukraine",
+        "demand": "10/10",
+        "image": "./ukraine.png",
+        "rarity": "Legendary",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "375/s",
+        "cost": "50k"
+    },
+    {
+        "name": "Ukraine",
+        "demand": "10/10",
+        "image": "./ukraine.png",
+        "rarity": "Legendary",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "450/s",
+        "cost": "50k"
+    },
+    {
+        "name": "Ukraine",
+        "demand": "10/10",
+        "image": "./ukraine.png",
+        "rarity": "Legendary",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "600/s",
+        "cost": "50k"
+    },
+    {
+        "name": "Ukraine",
+        "demand": "10/10",
+        "image": "./ukraine.png",
+        "rarity": "Legendary",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "900/s",
+        "cost": "50k"
+    },
+    {
+        "name": "Kazakstan",
+        "demand": "10/10",
+        "image": "./kazakstan.png",
+        "rarity": "Legendary",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "400/s",
+        "cost": "75k"
+    },
+    {
+        "name": "Kazakstan",
+        "demand": "10/10",
+        "image": "./kazakstan.png",
+        "rarity": "Legendary",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "500/s",
+        "cost": "75k"
+    },
+    {
+        "name": "Kazakstan",
+        "demand": "10/10",
+        "image": "./kazakstan.png",
+        "rarity": "Legendary",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "600/s",
+        "cost": "75k"
+    },
+    {
+        "name": "Kazakstan",
+        "demand": "10/10",
+        "image": "./kazakstan.png",
+        "rarity": "Legendary",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "800/s",
+        "cost": "75k"
+    },
+    {
+        "name": "Kazakstan",
+        "demand": "10/10",
+        "image": "./kazakstan.png",
+        "rarity": "Legendary",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "1.2k/s",
+        "cost": "75k"
+    },
+    {
+        "name": "Albania",
+        "demand": "10/10",
+        "image": "./albania.png",
+        "rarity": "Legendary",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "500/s",
+        "cost": "100k"
+    },
+    {
+        "name": "Albania",
+        "demand": "10/10",
+        "image": "./albania.png",
+        "rarity": "Legendary",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "625/s",
+        "cost": "100k"
+    },
+    {
+        "name": "Albania",
+        "demand": "10/10",
+        "image": "./albania.png",
+        "rarity": "Legendary",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "750/s",
+        "cost": "100k"
+    },
+    {
+        "name": "Albania",
+        "demand": "10/10",
+        "image": "./albania.png",
+        "rarity": "Legendary",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "1k/s",
+        "cost": "100k"
+    },
+    {
+        "name": "Albania",
+        "demand": "10/10",
+        "image": "./albania.png",
+        "rarity": "Legendary",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "1.5k/s",
+        "cost": "100k"
+    },
+    {
+        "name": "Iran",
+        "demand": "10/10",
+        "image": "./iran.png",
+        "rarity": "Legendary",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "650/s",
+        "cost": "150k"
+    },
+    {
+        "name": "Iran",
+        "demand": "10/10",
+        "image": "./iran.png",
+        "rarity": "Legendary",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "812.5/s",
+        "cost": "150k"
+    },
+    {
+        "name": "Iran",
+        "demand": "10/10",
+        "image": "./iran.png",
+        "rarity": "Legendary",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "975/s",
+        "cost": "150k"
+    },
+    {
+        "name": "Iran",
+        "demand": "10/10",
+        "image": "./iran.png",
+        "rarity": "Legendary",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "1.3k/s",
+        "cost": "150k"
+    },
+    {
+        "name": "Iran",
+        "demand": "10/10",
+        "image": "./iran.png",
+        "rarity": "Legendary",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "1.95k/s",
+        "cost": "150k"
+    },
+    {
+        "name": "Greenland",
+        "demand": "10/10",
+        "image": "./greenland.png",
+        "rarity": "Legendary",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "750/s",
+        "cost": "200k"
+    },
+    {
+        "name": "Greenland",
+        "demand": "10/10",
+        "image": "./greenland.png",
+        "rarity": "Legendary",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "937.5/s",
+        "cost": "200k"
+    },
+    {
+        "name": "Greenland",
+        "demand": "10/10",
+        "image": "./greenland.png",
+        "rarity": "Legendary",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "1.125k/s",
+        "cost": "200k"
+    },
+    {
+        "name": "Greenland",
+        "demand": "10/10",
+        "image": "./greenland.png",
+        "rarity": "Legendary",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "1.5k/s",
+        "cost": "200k"
+    },
+    {
+        "name": "Greenland",
+        "demand": "10/10",
+        "image": "./greenland.png",
+        "rarity": "Legendary",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "2.25k/s",
+        "cost": "200k"
+    },
+    {
+        "name": "Madagascar",
+        "demand": "10/10",
+        "image": "./madagascar.png",
+        "rarity": "Legendary",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "800/s",
+        "cost": "225k"
+    },
+    {
+        "name": "Madagascar",
+        "demand": "10/10",
+        "image": "./madagascar.png",
+        "rarity": "Legendary",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "1k/s",
+        "cost": "225k"
+    },
+    {
+        "name": "Madagascar",
+        "demand": "10/10",
+        "image": "./madagascar.png",
+        "rarity": "Legendary",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "1.2k/s",
+        "cost": "225k"
+    },
+    {
+        "name": "Madagascar",
+        "demand": "10/10",
+        "image": "./madagascar.png",
+        "rarity": "Legendary",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "1.6k/s",
+        "cost": "225k"
+    },
+    {
+        "name": "Madagascar",
+        "demand": "10/10",
+        "image": "./madagascar.png",
+        "rarity": "Legendary",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "2.4k/s",
+        "cost": "225k"
+    },
+    {
+        "name": "Canada",
+        "demand": "10/10",
+        "image": "./canada.png",
+        "rarity": "Legendary",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "1k/s",
+        "cost": "250k"
+    },
+    {
+        "name": "Canada",
+        "demand": "10/10",
+        "image": "./canada.png",
+        "rarity": "Legendary",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "1.25k/s",
+        "cost": "250k"
+    },
+    {
+        "name": "Canada",
+        "demand": "10/10",
+        "image": "./canada.png",
+        "rarity": "Legendary",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "1.5k/s",
+        "cost": "250k"
+    },
+    {
+        "name": "Canada",
+        "demand": "10/10",
+        "image": "./canada.png",
+        "rarity": "Legendary",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "2k/s",
+        "cost": "250k"
+    },
+    {
+        "name": "Canada",
+        "demand": "10/10",
+        "image": "./canada.png",
+        "rarity": "Legendary",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "3k/s",
+        "cost": "250k"
+    },
+    {
+        "name": "Taiwan",
+        "demand": "10/10",
+        "image": "./taiwan.png",
+        "rarity": "Mythic",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "1.2k/s",
+        "cost": "300k"
+    },
+    {
+        "name": "Taiwan",
+        "demand": "10/10",
+        "image": "./taiwan.png",
+        "rarity": "Mythic",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "1.5k/s",
+        "cost": "300k"
+    },
+    {
+        "name": "Taiwan",
+        "demand": "10/10",
+        "image": "./taiwan.png",
+        "rarity": "Mythic",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "1.8k/s",
+        "cost": "300k"
+    },
+    {
+        "name": "Taiwan",
+        "demand": "10/10",
+        "image": "./taiwan.png",
+        "rarity": "Mythic",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "2.4k/s",
+        "cost": "300k"
+    },
+    {
+        "name": "Taiwan",
+        "demand": "10/10",
+        "image": "./taiwan.png",
+        "rarity": "Mythic",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "3.6k/s",
+        "cost": "300k"
+    },
+    {
+        "name": "North Korea",
+        "demand": "10/10",
+        "image": "./north_korea.png",
+        "rarity": "Mythic",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "1.8k/s",
+        "cost": "400k"
+    },
+    {
+        "name": "North Korea",
+        "demand": "10/10",
+        "image": "./north_korea.png",
+        "rarity": "Mythic",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "2.25k/s",
+        "cost": "400k"
+    },
+    {
+        "name": "North Korea",
+        "demand": "10/10",
+        "image": "./north_korea.png",
+        "rarity": "Mythic",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "2.7k/s",
+        "cost": "400k"
+    },
+    {
+        "name": "North Korea",
+        "demand": "10/10",
+        "image": "./north_korea.png",
+        "rarity": "Mythic",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "3.6k/s",
+        "cost": "400k"
+    },
+    {
+        "name": "North Korea",
+        "demand": "10/10",
+        "image": "./north_korea.png",
+        "rarity": "Mythic",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "5.4k/s",
+        "cost": "400k"
+    },
+    {
+        "name": "Kosovo",
+        "demand": "10/10",
+        "image": "./kosovo.png",
+        "rarity": "Mythic",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "2k/s",
+        "cost": "450k"
+    },
+    {
+        "name": "Kosovo",
+        "demand": "10/10",
+        "image": "./kosovo.png",
+        "rarity": "Mythic",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "2.5k/s",
+        "cost": "450k"
+    },
+    {
+        "name": "Kosovo",
+        "demand": "10/10",
+        "image": "./kosovo.png",
+        "rarity": "Mythic",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "3k/s",
+        "cost": "450k"
+    },
+    {
+        "name": "Kosovo",
+        "demand": "10/10",
+        "image": "./kosovo.png",
+        "rarity": "Mythic",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "4k/s",
+        "cost": "450k"
+    },
+    {
+        "name": "Kosovo",
+        "demand": "10/10",
+        "image": "./kosovo.png",
+        "rarity": "Mythic",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "6k/s",
+        "cost": "450k"
+    },
+    {
+        "name": "China",
+        "demand": "10/10",
+        "image": "./china.png",
+        "rarity": "Mythic",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "2.5k/s",
+        "cost": "500k"
+    },
+    {
+        "name": "China",
+        "demand": "10/10",
+        "image": "./china.png",
+        "rarity": "Mythic",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "3.125k/s",
+        "cost": "500k"
+    },
+    {
+        "name": "China",
+        "demand": "10/10",
+        "image": "./china.png",
+        "rarity": "Mythic",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "3.75k/s",
+        "cost": "500k"
+    },
+    {
+        "name": "China",
+        "demand": "10/10",
+        "image": "./china.png",
+        "rarity": "Mythic",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "5k/s",
+        "cost": "500k"
+    },
+    {
+        "name": "China",
+        "demand": "10/10",
+        "image": "./china.png",
+        "rarity": "Mythic",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "7.5k/s",
+        "cost": "500k"
+    },
+    {
+        "name": "Majapahit Empire",
+        "demand": "10/10",
+        "image": "./majapahit_empire.png",
+        "rarity": "Mythic",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "4.5k/s",
+        "cost": "1m"
+    },
+    {
+        "name": "Majapahit Empire",
+        "demand": "10/10",
+        "image": "./majapahit_empire.png",
+        "rarity": "Mythic",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "5.625k/s",
+        "cost": "1m"
+    },
+    {
+        "name": "Majapahit Empire",
+        "demand": "10/10",
+        "image": "./majapahit_empire.png",
+        "rarity": "Mythic",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "6.75k/s",
+        "cost": "1m"
+    },
+    {
+        "name": "Majapahit Empire",
+        "demand": "10/10",
+        "image": "./majapahit_empire.png",
+        "rarity": "Mythic",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "9k/s",
+        "cost": "1m"
+    },
+    {
+        "name": "Majapahit Empire",
+        "demand": "10/10",
+        "image": "./majapahit_empire.png",
+        "rarity": "Mythic",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "13.5k/s",
+        "cost": "1m"
+    },
+    {
+        "name": "Greater Romania",
+        "demand": "10/10",
+        "image": "./greater_romania.png",
+        "rarity": "Godly",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "10k/s",
+        "cost": "2m"
+    },
+    {
+        "name": "Greater Romania",
+        "demand": "10/10",
+        "image": "./greater_romania.png",
+        "rarity": "Godly",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "12.5k/s",
+        "cost": "2m"
+    },
+    {
+        "name": "Greater Romania",
+        "demand": "10/10",
+        "image": "./greater_romania.png",
+        "rarity": "Godly",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "15k/s",
+        "cost": "2m"
+    },
+    {
+        "name": "Greater Romania",
+        "demand": "10/10",
+        "image": "./greater_romania.png",
+        "rarity": "Godly",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "20k/s",
+        "cost": "2m"
+    },
+    {
+        "name": "Greater Romania",
+        "demand": "10/10",
+        "image": "./greater_romania.png",
+        "rarity": "Godly",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "30k/s",
+        "cost": "2m"
+    },
+    {
+        "name": "Prussia",
+        "demand": "10/10",
+        "image": "./prussia.png",
+        "rarity": "Godly",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "21k/s",
+        "cost": "8m"
+    },
+    {
+        "name": "Prussia",
+        "demand": "10/10",
+        "image": "./prussia.png",
+        "rarity": "Godly",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "26.25k/s",
+        "cost": "8m"
+    },
+    {
+        "name": "Prussia",
+        "demand": "10/10",
+        "image": "./prussia.png",
+        "rarity": "Godly",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "31.5k/s",
+        "cost": "8m"
+    },
+    {
+        "name": "Prussia",
+        "demand": "10/10",
+        "image": "./prussia.png",
+        "rarity": "Godly",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "42k/s",
+        "cost": "8m"
+    },
+    {
+        "name": "Prussia",
+        "demand": "10/10",
+        "image": "./prussia.png",
+        "rarity": "Godly",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "63k/s",
+        "cost": "8m"
+    },
+    {
+        "name": "Polish-lithuanian Commonwealth",
+        "demand": "10/10",
+        "image": "./polish-lithuanian_commonwealth.png",
+        "rarity": "Godly",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "30k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Polish-lithuanian Commonwealth",
+        "demand": "10/10",
+        "image": "./polish-lithuanian_commonwealth.png",
+        "rarity": "Godly",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "37.5k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Polish-lithuanian Commonwealth",
+        "demand": "10/10",
+        "image": "./polish-lithuanian_commonwealth.png",
+        "rarity": "Godly",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "45k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Polish-lithuanian Commonwealth",
+        "demand": "10/10",
+        "image": "./polish-lithuanian_commonwealth.png",
+        "rarity": "Godly",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "60k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Polish-lithuanian Commonwealth",
+        "demand": "10/10",
+        "image": "./polish-lithuanian_commonwealth.png",
+        "rarity": "Godly",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "90k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Russia",
+        "demand": "10/10",
+        "image": "./russia.png",
+        "rarity": "Godly",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "40k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Russia",
+        "demand": "10/10",
+        "image": "./russia.png",
+        "rarity": "Godly",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "50k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Russia",
+        "demand": "10/10",
+        "image": "./russia.png",
+        "rarity": "Godly",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "60k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Russia",
+        "demand": "10/10",
+        "image": "./russia.png",
+        "rarity": "Godly",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "80k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Russia",
+        "demand": "10/10",
+        "image": "./russia.png",
+        "rarity": "Godly",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "120k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Holy Roman Empire",
+        "demand": "10/10",
+        "image": "./holy_roman_empire.png",
+        "rarity": "Godly",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "55k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Holy Roman Empire",
+        "demand": "10/10",
+        "image": "./holy_roman_empire.png",
+        "rarity": "Godly",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "68.75k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Holy Roman Empire",
+        "demand": "10/10",
+        "image": "./holy_roman_empire.png",
+        "rarity": "Godly",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "82.5k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Holy Roman Empire",
+        "demand": "10/10",
+        "image": "./holy_roman_empire.png",
+        "rarity": "Godly",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "110k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Holy Roman Empire",
+        "demand": "10/10",
+        "image": "./holy_roman_empire.png",
+        "rarity": "Godly",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "165k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Qing Dynasty",
+        "demand": "10/10",
+        "image": "./qing_dynasty.png",
+        "rarity": "Godly",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "75k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Qing Dynasty",
+        "demand": "10/10",
+        "image": "./qing_dynasty.png",
+        "rarity": "Godly",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "93.75k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Qing Dynasty",
+        "demand": "10/10",
+        "image": "./qing_dynasty.png",
+        "rarity": "Godly",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "112k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Qing Dynasty",
+        "demand": "10/10",
+        "image": "./qing_dynasty.png",
+        "rarity": "Godly",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "150k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Qing Dynasty",
+        "demand": "10/10",
+        "image": "./qing_dynasty.png",
+        "rarity": "Godly",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "225k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "EU",
+        "demand": "10/10",
+        "image": "./european_union.png",
+        "rarity": "Godly",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "90k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "EU",
+        "demand": "10/10",
+        "image": "./european_union.png",
+        "rarity": "Godly",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "112.5k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "EU",
+        "demand": "10/10",
+        "image": "./european_union.png",
+        "rarity": "Godly",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "135k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "EU",
+        "demand": "10/10",
+        "image": "./european_union.png",
+        "rarity": "Godly",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "180k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "EU",
+        "demand": "10/10",
+        "image": "./european_union.png",
+        "rarity": "Godly",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "270k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "United States",
+        "demand": "10/10",
+        "image": "./united_states.png",
+        "rarity": "Godly",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "100k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "United States",
+        "demand": "10/10",
+        "image": "./united_states.png",
+        "rarity": "Godly",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "125k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "United States",
+        "demand": "10/10",
+        "image": "./united_states.png",
+        "rarity": "Godly",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "150k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "United States",
+        "demand": "10/10",
+        "image": "./united_states.png",
+        "rarity": "Godly",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "200k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "United States",
+        "demand": "10/10",
+        "image": "./united_states.png",
+        "rarity": "Godly",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "300k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Czechoslovakia",
+        "demand": "10/10",
+        "image": "./czechoslovakia.png",
+        "rarity": "Secret",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "50k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Czechoslovakia",
+        "demand": "10/10",
+        "image": "./czechoslovakia.png",
+        "rarity": "Secret",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "62.5k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Czechoslovakia",
+        "demand": "10/10",
+        "image": "./czechoslovakia.png",
+        "rarity": "Secret",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "75k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Czechoslovakia",
+        "demand": "10/10",
+        "image": "./czechoslovakia.png",
+        "rarity": "Secret",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "100k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Czechoslovakia",
+        "demand": "10/10",
+        "image": "./czechoslovakia.png",
+        "rarity": "Secret",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "150k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Yugoslavia",
+        "demand": "10/10",
+        "image": "./yugoslavia.png",
+        "rarity": "Secret",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "55k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Yugoslavia",
+        "demand": "10/10",
+        "image": "./yugoslavia.png",
+        "rarity": "Secret",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "68.75k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Yugoslavia",
+        "demand": "10/10",
+        "image": "./yugoslavia.png",
+        "rarity": "Secret",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "82.5k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Yugoslavia",
+        "demand": "10/10",
+        "image": "./yugoslavia.png",
+        "rarity": "Secret",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "110k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Yugoslavia",
+        "demand": "10/10",
+        "image": "./yugoslavia.png",
+        "rarity": "Secret",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "165k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "France Empire",
+        "demand": "10/10",
+        "image": "./france_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "100k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "France Empire",
+        "demand": "10/10",
+        "image": "./france_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "125k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "France Empire",
+        "demand": "10/10",
+        "image": "./france_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "150k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "France Empire",
+        "demand": "10/10",
+        "image": "./france_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "200k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "France Empire",
+        "demand": "10/10",
+        "image": "./france_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "300k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Persian Empire",
+        "demand": "10/10",
+        "image": "./persian_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "200k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Persian Empire",
+        "demand": "10/10",
+        "image": "./persian_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "250k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Persian Empire",
+        "demand": "10/10",
+        "image": "./persian_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "300k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Persian Empire",
+        "demand": "10/10",
+        "image": "./persian_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "400k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Persian Empire",
+        "demand": "10/10",
+        "image": "./persian_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "600k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "African Union",
+        "demand": "10/10",
+        "image": "./african_union.png",
+        "rarity": "Secret",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "200k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "African Union",
+        "demand": "10/10",
+        "image": "./african_union.png",
+        "rarity": "Secret",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "250k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "African Union",
+        "demand": "10/10",
+        "image": "./african_union.png",
+        "rarity": "Secret",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "300k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "African Union",
+        "demand": "10/10",
+        "image": "./african_union.png",
+        "rarity": "Secret",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "400k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "African Union",
+        "demand": "10/10",
+        "image": "./african_union.png",
+        "rarity": "Secret",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "600k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Ottoman Empire",
+        "demand": "10/10",
+        "image": "./ottoman_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "360k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Ottoman Empire",
+        "demand": "10/10",
+        "image": "./ottoman_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "450k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Ottoman Empire",
+        "demand": "10/10",
+        "image": "./ottoman_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "540k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Ottoman Empire",
+        "demand": "10/10",
+        "image": "./ottoman_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "720k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Ottoman Empire",
+        "demand": "10/10",
+        "image": "./ottoman_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "1.08m/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Soviet Union",
+        "demand": "10/10",
+        "image": "./soviet_union.png",
+        "rarity": "Secret",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "400k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Soviet Union",
+        "demand": "10/10",
+        "image": "./soviet_union.png",
+        "rarity": "Secret",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "500k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Soviet Union",
+        "demand": "10/10",
+        "image": "./soviet_union.png",
+        "rarity": "Secret",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "600k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Soviet Union",
+        "demand": "10/10",
+        "image": "./soviet_union.png",
+        "rarity": "Secret",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "800k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Soviet Union",
+        "demand": "10/10",
+        "image": "./soviet_union.png",
+        "rarity": "Secret",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "1.2m/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "NATO",
+        "demand": "10/10",
+        "image": "./nato.png",
+        "rarity": "Secret",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "400k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "NATO",
+        "demand": "10/10",
+        "image": "./nato.png",
+        "rarity": "Secret",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "500k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "NATO",
+        "demand": "10/10",
+        "image": "./nato.png",
+        "rarity": "Secret",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "600k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "NATO",
+        "demand": "10/10",
+        "image": "./nato.png",
+        "rarity": "Secret",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "800k/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "NATO",
+        "demand": "10/10",
+        "image": "./nato.png",
+        "rarity": "Secret",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "1.2m/s",
+        "cost": "N/A"
+    },
+    {
+        "name": "Roman Empire",
+        "demand": "10/10",
+        "image": "./Roman Empire.png",
+        "rarity": "Secret",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "450k/s",
+        "cost": "99m"
+    },
+    {
+        "name": "Roman Empire",
+        "demand": "10/10",
+        "image": "./Roman Empire.png",
+        "rarity": "Secret",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "562.5k/s",
+        "cost": "99m"
+    },
+    {
+        "name": "Roman Empire",
+        "demand": "10/10",
+        "image": "./Roman Empire.png",
+        "rarity": "Secret",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "675k/s",
+        "cost": "99m"
+    },
+    {
+        "name": "Roman Empire",
+        "demand": "10/10",
+        "image": "./Roman Empire.png",
+        "rarity": "Secret",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "900k/s",
+        "cost": "99m"
+    },
+    {
+        "name": "Roman Empire",
+        "demand": "10/10",
+        "image": "./Roman Empire.png",
+        "rarity": "Secret",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "1.35m/s",
+        "cost": "99m"
+    },
+    {
+        "name": "Atlantis",
+        "demand": "10/10",
+        "image": "./atlantis.png",
+        "rarity": "Secret",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "1m/s",
+        "cost": "1b"
+    },
+    {
+        "name": "Atlantis",
+        "demand": "10/10",
+        "image": "./atlantis.png",
+        "rarity": "Secret",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "1.25m/s",
+        "cost": "1b"
+    },
+    {
+        "name": "Atlantis",
+        "demand": "10/10",
+        "image": "./atlantis.png",
+        "rarity": "Secret",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "1.5m/s",
+        "cost": "1b"
+    },
+    {
+        "name": "Atlantis",
+        "demand": "10/10",
+        "image": "./atlantis.png",
+        "rarity": "Secret",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "2m/s",
+        "cost": "1b"
+    },
+    {
+        "name": "Atlantis",
+        "demand": "10/10",
+        "image": "./atlantis.png",
+        "rarity": "Secret",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "3m/s",
+        "cost": "1b"
+    },
+    {
+        "name": "Mongol Empire",
+        "demand": "10/10",
+        "image": "./mongol_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "5m/s",
+        "cost": "10b"
+    },
+    {
+        "name": "Mongol Empire",
+        "demand": "10/10",
+        "image": "./mongol_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "6.25m/s",
+        "cost": "10b"
+    },
+    {
+        "name": "Mongol Empire",
+        "demand": "10/10",
+        "image": "./mongol_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "7.5m/s",
+        "cost": "10b"
+    },
+    {
+        "name": "Mongol Empire",
+        "demand": "10/10",
+        "image": "./mongol_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "10m/s",
+        "cost": "10b"
+    },
+    {
+        "name": "Mongol Empire",
+        "demand": "10/10",
+        "image": "./mongol_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "15m/s",
+        "cost": "10b"
+    },
+    {
+        "name": "Spanish Empire",
+        "demand": "10/10",
+        "image": "./spanish_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "5000000/s",
+        "cost": "10b"
+    },
+    {
+        "name": "Spanish Empire",
+        "demand": "10/10",
+        "image": "./spanish_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "6.25m/s",
+        "cost": "10b"
+    },
+    {
+        "name": "Spanish Empire",
+        "demand": "10/10",
+        "image": "./spanish_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "7.5m/s",
+        "cost": "10b"
+    },
+    {
+        "name": "Spanish Empire",
+        "demand": "10/10",
+        "image": "./spanish_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "10m/s",
+        "cost": "10b"
+    },
+    {
+        "name": "Spanish Empire",
+        "demand": "10/10",
+        "image": "./spanish_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "15m/s",
+        "cost": "10b"
+    },
+    {
+        "name": "British Empire",
+        "demand": "10/10",
+        "image": "./british_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "10m/s",
+        "cost": "20b"
+    },
+    {
+        "name": "British Empire",
+        "demand": "10/10",
+        "image": "./british_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "12.5m/s",
+        "cost": "20b"
+    },
+    {
+        "name": "British Empire",
+        "demand": "10/10",
+        "image": "./british_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "15m/s",
+        "cost": "20b"
+    },
+    {
+        "name": "British Empire",
+        "demand": "10/10",
+        "image": "./british_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "20m/s",
+        "cost": "20b"
+    },
+    {
+        "name": "British Empire",
+        "demand": "10/10",
+        "image": "./british_empire.png",
+        "rarity": "Secret",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "30m/s",
+        "cost": "20b"
+    },
+    {
+        "name": "Seven Kingdoms",
+        "copies": "973",
+        "demand": "10/10",
+        "image": "./seven_kingdoms.png",
+        "rarity": "Limited",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "75m/s",
+        "cost": "999"
+    },
+    {
+        "name": "Seven Kingdoms",
+        "copies": "0",
+        "demand": "N/A",
+        "image": "./seven_kingdoms.png",
+        "rarity": "Limited",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "93.75m/s",
+        "cost": "Unobtainable"
+    },
+    {
+        "name": "Seven Kingdoms",
+        "copies": "0",
+        "demand": "N/A",
+        "image": "./seven_kingdoms.png",
+        "rarity": "Limited",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "112m/s",
+        "cost": "Unobtainable"
+    },
+    {
+        "name": "Seven Kingdoms",
+        "copies": "0",
+        "demand":"N/A",
+        "image": "./seven_kingdoms.png",
+        "rarity": "Limited",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "150m/s",
+        "cost": "Unobtainable"
+    },
+    {
+        "name": "Seven Kingdoms",
+        "copies": "0",
+        "demand": "N/A",
+        "image": "./seven_kingdoms.png",
+        "rarity": "Limited",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "225m/s",
+        "cost": "Unobtainable"
+    },
+    {
+        "name": "Carthage",
+        "copies": "1000",
+        "demand": "10/10",
+        "image": "./carthage.png",
+        "rarity": "Limited",
+        "multiplier": "Normal",
+        "mutation": ["None"],
+        "income": "80m/s",
+        "cost": "999"
+    },
+    {
+        "name": "Carthage",
+        "copies": "0",
+        "demand": "N/A",
+        "image": "./carthage.png",
+        "rarity": "Limited",
+        "multiplier": "Gold",
+        "mutation": ["None"],
+        "income": "100m/s",
+        "cost": "Unobtainable"
+    },
+    {
+        "name": "Carthage",
+        "copies": "0",
+        "demand": "N/A",
+        "image": "./carthage.png",
+        "rarity": "Limited",
+        "multiplier": "Diamond",
+        "mutation": ["None"],
+        "income": "120m/s",
+        "cost": "Unobtainable"
+    },
+    {
+        "name": "Carthage",
+        "copies": "0",
+        "demand": "N/A",
+        "image": "./carthage.png",
+        "rarity": "Limited",
+        "multiplier": "Emerald",
+        "mutation": ["None"],
+        "income": "160m/s",
+        "cost": "Unobtainable"
+    },
+    {
+        "name": "Carthage",
+        "copies": "0",
+        "demand": "N/A",
+        "image": "./carthage.png",
+        "rarity": "Limited",
+        "multiplier": "Rainbow",
+        "mutation": ["None"],
+        "income": "240m/s",
+        "cost": "Unobtainable"
+    }
+]
